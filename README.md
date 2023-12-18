@@ -1,15 +1,4 @@
 
-<style>
-    .tools{
-        display: grid;
-        grid-template-columns: repeat(10, 1fr);
-        align-items: center;
-    }
-
-    .keyword{
-        color: #8ae6ff;
-    }
-</style>
 
 ![ProfileHeader_Light](https://github.com/ericacswu/ericacswu/blob/main/img/ProfileHeader_light.png?raw=true#gh-dark-mode-only)
 ![ProfileHeader_Dark](https://github.com/ericacswu/ericacswu/blob/main/img/ProfileHeader_dark.png?raw=true#gh-light-mode-only)
@@ -72,6 +61,19 @@
 <div style="padding: 20px 0px;"></div>
 
 ![](https://komarev.com/ghpvc/?username=ericacswu&color=lightgrey)
+
+
+<style>
+    .tools{
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        align-items: center;
+    }
+
+    .keyword{
+        color: #8ae6ff;
+    }
+</style>
 
 <!-- icon generated from https://marwin1991.github.io/profile-technology-icons/ -->
 <!-- icon generated from https://github.com/tandpfun/skill-icons -->
